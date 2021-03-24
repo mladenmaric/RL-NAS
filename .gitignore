@@ -130,3 +130,5 @@ dmypy.json
 
 .idea/
 logs/
+eval.py
+test.py
